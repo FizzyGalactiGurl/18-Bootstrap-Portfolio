@@ -1,0 +1,63 @@
+.jumbotron {
+  background-image: url(../images/gg-bridge.png);
+  background-size: cover;
+  padding: 250px;
+  text-align: center;
+  align-items: center;
+  margin: auto auto;
+}
+
+.display-4 {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.cards {
+  display: inline-flex;
+  padding: 5px;
+  margin-left: 5px;
+  padding-top: 20px;
+}
+
+.table {
+  margin: 40px auto;
+  width: 80%;
+}
+
+h2 {
+  text-align: center;
+  padding: 30px;
+}
+
+.jumbotron2 {
+  background-image: url(../images/fireweed.jpg);
+  background-size: cover;
+  padding: 100px;
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  padding: 50px;
+}
+
+.social-media {
+  list-style: none;
+  display: inline-flex;
+}
+
+.social-media img {
+  padding: 10px;
+  margin: auto auto;
+  align-content: center;
+}
+
+.quote {
+  display: inline-flex;
+  padding: 10px;
+}
+
+.btn {
+  background-color: teal;
+  border: none;
+}
